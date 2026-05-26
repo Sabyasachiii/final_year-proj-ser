@@ -24,7 +24,6 @@ instance/
 
 # ML Models
 *.h5
-*.pkl
 *.joblib
 *.onnx
 *.pt
