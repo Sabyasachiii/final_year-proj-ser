@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Flask
+instance/
+.webassets-cache/
+
+# Environment Variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# ML Models
+*.h5
+*.pkl
+*.joblib
+*.onnx
+*.pt
+
+# Dataset Files
+data/
+datasets/
+*.csv
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Node Modules (if frontend exists)
+node_modules/
